@@ -1,0 +1,113 @@
+{
+  "updated_at": "2026-05-14T10:57:48+00:00",
+  "entries": [
+    {
+      "name": "gpt",
+      "score": 2091.395,
+      "status": "ok",
+      "scenarios": {
+        "static_multi": {
+          "score": 2120.143,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 381,
+            "path_length": 36.775,
+            "minimum_clearance": 0.0,
+            "collision_steps": 0,
+            "average_action_time_s": 0.03006,
+            "average_frequency_hz": 33.27,
+            "average_speed": 0.965
+          }
+        },
+        "dynamic_multi": {
+          "score": 2062.647,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 474,
+            "path_length": 38.275,
+            "minimum_clearance": 0.001,
+            "collision_steps": 0,
+            "average_action_time_s": 0.01843,
+            "average_frequency_hz": 54.25,
+            "average_speed": 0.807
+          }
+        }
+      },
+      "error": null
+    },
+    {
+      "name": "baseline",
+      "score": 1978.843,
+      "status": "ok",
+      "scenarios": {
+        "static_multi": {
+          "score": 2119.742,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 378,
+            "path_length": 36.71,
+            "minimum_clearance": 0.0,
+            "collision_steps": 0,
+            "average_action_time_s": 0.04637,
+            "average_frequency_hz": 21.56,
+            "average_speed": 0.971
+          }
+        },
+        "dynamic_multi": {
+          "score": 1837.944,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 470,
+            "path_length": 38.915,
+            "minimum_clearance": -0.068,
+            "collision_steps": 7,
+            "average_action_time_s": 0.0339,
+            "average_frequency_hz": 29.5,
+            "average_speed": 0.828
+          }
+        }
+      },
+      "error": null
+    },
+    {
+      "name": "stupid",
+      "score": -2103.115,
+      "status": "ok",
+      "scenarios": {
+        "static_multi": {
+          "score": -1482.59,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 211,
+            "path_length": 27.431,
+            "minimum_clearance": -0.801,
+            "collision_steps": 41,
+            "average_action_time_s": 0.0,
+            "average_frequency_hz": 506891.1,
+            "average_speed": 1.3
+          }
+        },
+        "dynamic_multi": {
+          "score": -2723.64,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 211,
+            "path_length": 27.431,
+            "minimum_clearance": -0.801,
+            "collision_steps": 55,
+            "average_action_time_s": 0.0,
+            "average_frequency_hz": 524282.25,
+            "average_speed": 1.3
+          }
+        }
+      },
+      "error": null
+    }
+  ]
+}
