@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T06:15:25+00:00",
+  "updated_at": "2026-06-21T06:41:46+00:00",
   "entries": [
     {
       "name": "abhinav_pointsinthecloud",
@@ -15,8 +15,8 @@
             "path_length": 33.465,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.07317,
-            "average_frequency_hz": 13.67,
+            "average_action_time_s": 0.0759,
+            "average_frequency_hz": 13.18,
             "average_speed": 0.922
           }
         },
@@ -29,8 +29,8 @@
             "path_length": 32.46,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.05069,
-            "average_frequency_hz": 19.73,
+            "average_action_time_s": 0.0538,
+            "average_frequency_hz": 18.59,
             "average_speed": 0.914
           }
         }
@@ -51,8 +51,8 @@
             "path_length": 36.3,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.05141,
-            "average_frequency_hz": 19.45,
+            "average_action_time_s": 0.05351,
+            "average_frequency_hz": 18.69,
             "average_speed": 1.065
           }
         },
@@ -65,8 +65,8 @@
             "path_length": 37.52,
             "minimum_clearance": 0.002,
             "collision_steps": 0,
-            "average_action_time_s": 0.03548,
-            "average_frequency_hz": 28.19,
+            "average_action_time_s": 0.03798,
+            "average_frequency_hz": 26.33,
             "average_speed": 1.066
           }
         }
@@ -87,8 +87,8 @@
             "path_length": 36.97,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.09061,
-            "average_frequency_hz": 11.04,
+            "average_action_time_s": 0.09831,
+            "average_frequency_hz": 10.17,
             "average_speed": 1.127
           }
         },
@@ -101,8 +101,8 @@
             "path_length": 38.335,
             "minimum_clearance": 0.002,
             "collision_steps": 0,
-            "average_action_time_s": 0.06244,
-            "average_frequency_hz": 16.01,
+            "average_action_time_s": 0.06921,
+            "average_frequency_hz": 14.45,
             "average_speed": 1.102
           }
         }
@@ -123,8 +123,8 @@
             "path_length": 36.775,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.03917,
-            "average_frequency_hz": 25.53,
+            "average_action_time_s": 0.04268,
+            "average_frequency_hz": 23.43,
             "average_speed": 0.965
           }
         },
@@ -137,8 +137,8 @@
             "path_length": 38.275,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.02534,
-            "average_frequency_hz": 39.46,
+            "average_action_time_s": 0.02757,
+            "average_frequency_hz": 36.27,
             "average_speed": 0.807
           }
         }
@@ -147,35 +147,35 @@
     },
     {
       "name": "sohamsorzsoln",
-      "score": 2080.729,
+      "score": 2088.657,
       "status": "ok",
       "scenarios": {
         "static_multi": {
-          "score": 2112.147,
+          "score": 2087.867,
           "metrics": {
             "waypoints_reached": 4,
             "completed": true,
-            "steps": 382,
-            "path_length": 37.095,
+            "steps": 315,
+            "path_length": 38.25,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.06849,
-            "average_frequency_hz": 14.6,
-            "average_speed": 0.971
+            "average_action_time_s": 0.04924,
+            "average_frequency_hz": 20.31,
+            "average_speed": 1.214
           }
         },
         "dynamic_multi": {
-          "score": 2049.31,
+          "score": 2089.447,
           "metrics": {
             "waypoints_reached": 4,
             "completed": true,
-            "steps": 487,
-            "path_length": 39.635,
-            "minimum_clearance": 0.001,
-            "collision_steps": 0,
-            "average_action_time_s": 0.0449,
-            "average_frequency_hz": 22.27,
-            "average_speed": 0.814
+            "steps": 296,
+            "path_length": 35.0,
+            "minimum_clearance": -0.005,
+            "collision_steps": 1,
+            "average_action_time_s": 0.03479,
+            "average_frequency_hz": 28.74,
+            "average_speed": 1.182
           }
         }
       },
@@ -195,8 +195,8 @@
             "path_length": 37.775,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.05848,
-            "average_frequency_hz": 17.1,
+            "average_action_time_s": 0.06133,
+            "average_frequency_hz": 16.3,
             "average_speed": 1.01
           }
         },
@@ -209,8 +209,8 @@
             "path_length": 39.195,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.03868,
-            "average_frequency_hz": 25.85,
+            "average_action_time_s": 0.04145,
+            "average_frequency_hz": 24.13,
             "average_speed": 0.817
           }
         }
@@ -231,8 +231,8 @@
             "path_length": 37.41,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.08147,
-            "average_frequency_hz": 12.28,
+            "average_action_time_s": 0.08605,
+            "average_frequency_hz": 11.62,
             "average_speed": 0.926
           }
         },
@@ -245,8 +245,8 @@
             "path_length": 38.63,
             "minimum_clearance": -0.079,
             "collision_steps": 2,
-            "average_action_time_s": 0.04688,
-            "average_frequency_hz": 21.33,
+            "average_action_time_s": 0.05083,
+            "average_frequency_hz": 19.67,
             "average_speed": 0.784
           }
         }
@@ -267,8 +267,8 @@
             "path_length": 36.71,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.05916,
-            "average_frequency_hz": 16.9,
+            "average_action_time_s": 0.06228,
+            "average_frequency_hz": 16.06,
             "average_speed": 0.971
           }
         },
@@ -281,8 +281,8 @@
             "path_length": 38.915,
             "minimum_clearance": -0.068,
             "collision_steps": 7,
-            "average_action_time_s": 0.03895,
-            "average_frequency_hz": 25.67,
+            "average_action_time_s": 0.04223,
+            "average_frequency_hz": 23.68,
             "average_speed": 0.828
           }
         }
@@ -303,8 +303,8 @@
             "path_length": 38.38,
             "minimum_clearance": -0.016,
             "collision_steps": 4,
-            "average_action_time_s": 0.07985,
-            "average_frequency_hz": 12.52,
+            "average_action_time_s": 0.08306,
+            "average_frequency_hz": 12.04,
             "average_speed": 0.836
           }
         },
@@ -317,8 +317,8 @@
             "path_length": 36.865,
             "minimum_clearance": -0.201,
             "collision_steps": 20,
-            "average_action_time_s": 0.0551,
-            "average_frequency_hz": 18.15,
+            "average_action_time_s": 0.05916,
+            "average_frequency_hz": 16.9,
             "average_speed": 0.783
           }
         }
@@ -339,8 +339,8 @@
             "path_length": 34.3,
             "minimum_clearance": -0.791,
             "collision_steps": 11,
-            "average_action_time_s": 0.02137,
-            "average_frequency_hz": 46.79,
+            "average_action_time_s": 0.02219,
+            "average_frequency_hz": 45.06,
             "average_speed": 1.208
           }
         },
@@ -353,8 +353,8 @@
             "path_length": 36.54,
             "minimum_clearance": -0.045,
             "collision_steps": 19,
-            "average_action_time_s": 0.01468,
-            "average_frequency_hz": 68.11,
+            "average_action_time_s": 0.01568,
+            "average_frequency_hz": 63.76,
             "average_speed": 1.124
           }
         }
@@ -376,7 +376,7 @@
             "minimum_clearance": -0.801,
             "collision_steps": 41,
             "average_action_time_s": 0.0,
-            "average_frequency_hz": 450619.76,
+            "average_frequency_hz": 331658.8,
             "average_speed": 1.3
           }
         },
@@ -390,12 +390,19 @@
             "minimum_clearance": -0.801,
             "collision_steps": 55,
             "average_action_time_s": 0.0,
-            "average_frequency_hz": 507339.59,
+            "average_frequency_hz": 337639.98,
             "average_speed": 1.3
           }
         }
       },
       "error": null
+    },
+    {
+      "name": "chintan",
+      "score": -10000.0,
+      "status": "error",
+      "scenarios": {},
+      "error": "invalid non-printable character U+00A0 (chintan.py, line 17)"
     }
   ]
 }
