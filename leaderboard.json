@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T05:30:21+00:00",
+  "updated_at": "2026-06-21T05:55:19+00:00",
   "entries": [
     {
       "name": "abhinav_pointsinthecloud",
@@ -15,8 +15,8 @@
             "path_length": 33.465,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.06064,
-            "average_frequency_hz": 16.49,
+            "average_action_time_s": 0.07295,
+            "average_frequency_hz": 13.71,
             "average_speed": 0.922
           }
         },
@@ -29,8 +29,8 @@
             "path_length": 32.46,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.04335,
-            "average_frequency_hz": 23.07,
+            "average_action_time_s": 0.05083,
+            "average_frequency_hz": 19.67,
             "average_speed": 0.914
           }
         }
@@ -51,8 +51,8 @@
             "path_length": 36.3,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.04795,
-            "average_frequency_hz": 20.86,
+            "average_action_time_s": 0.05126,
+            "average_frequency_hz": 19.51,
             "average_speed": 1.065
           }
         },
@@ -65,9 +65,45 @@
             "path_length": 37.52,
             "minimum_clearance": 0.002,
             "collision_steps": 0,
-            "average_action_time_s": 0.03114,
-            "average_frequency_hz": 32.11,
+            "average_action_time_s": 0.03604,
+            "average_frequency_hz": 27.75,
             "average_speed": 1.066
+          }
+        }
+      },
+      "error": null
+    },
+    {
+      "name": "varun",
+      "score": 2101.462,
+      "status": "ok",
+      "scenarios": {
+        "static_multi": {
+          "score": 2102.087,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 328,
+            "path_length": 36.97,
+            "minimum_clearance": 0.0,
+            "collision_steps": 0,
+            "average_action_time_s": 0.09073,
+            "average_frequency_hz": 11.02,
+            "average_speed": 1.127
+          }
+        },
+        "dynamic_multi": {
+          "score": 2100.837,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 348,
+            "path_length": 38.335,
+            "minimum_clearance": 0.002,
+            "collision_steps": 0,
+            "average_action_time_s": 0.06265,
+            "average_frequency_hz": 15.96,
+            "average_speed": 1.102
           }
         }
       },
@@ -87,8 +123,8 @@
             "path_length": 36.775,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.03097,
-            "average_frequency_hz": 32.29,
+            "average_action_time_s": 0.03862,
+            "average_frequency_hz": 25.89,
             "average_speed": 0.965
           }
         },
@@ -101,8 +137,8 @@
             "path_length": 38.275,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.02,
-            "average_frequency_hz": 50.01,
+            "average_action_time_s": 0.02477,
+            "average_frequency_hz": 40.37,
             "average_speed": 0.807
           }
         }
@@ -123,8 +159,8 @@
             "path_length": 37.775,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.05468,
-            "average_frequency_hz": 18.29,
+            "average_action_time_s": 0.05867,
+            "average_frequency_hz": 17.04,
             "average_speed": 1.01
           }
         },
@@ -137,8 +173,8 @@
             "path_length": 39.195,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.03503,
-            "average_frequency_hz": 28.55,
+            "average_action_time_s": 0.03853,
+            "average_frequency_hz": 25.96,
             "average_speed": 0.817
           }
         }
@@ -159,8 +195,8 @@
             "path_length": 36.71,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.04577,
-            "average_frequency_hz": 21.85,
+            "average_action_time_s": 0.05894,
+            "average_frequency_hz": 16.97,
             "average_speed": 0.971
           }
         },
@@ -173,9 +209,45 @@
             "path_length": 38.915,
             "minimum_clearance": -0.068,
             "collision_steps": 7,
-            "average_action_time_s": 0.0327,
-            "average_frequency_hz": 30.58,
+            "average_action_time_s": 0.03874,
+            "average_frequency_hz": 25.81,
             "average_speed": 0.828
+          }
+        }
+      },
+      "error": null
+    },
+    {
+      "name": "himaneesh",
+      "score": 1974.351,
+      "status": "ok",
+      "scenarios": {
+        "static_multi": {
+          "score": 2103.257,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 380,
+            "path_length": 37.21,
+            "minimum_clearance": 0.001,
+            "collision_steps": 0,
+            "average_action_time_s": 0.10436,
+            "average_frequency_hz": 9.58,
+            "average_speed": 0.979
+          }
+        },
+        "dynamic_multi": {
+          "score": 1845.444,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 472,
+            "path_length": 38.595,
+            "minimum_clearance": -0.157,
+            "collision_steps": 5,
+            "average_action_time_s": 0.06969,
+            "average_frequency_hz": 14.35,
+            "average_speed": 0.818
           }
         }
       },
@@ -195,8 +267,8 @@
             "path_length": 38.38,
             "minimum_clearance": -0.016,
             "collision_steps": 4,
-            "average_action_time_s": 0.06931,
-            "average_frequency_hz": 14.43,
+            "average_action_time_s": 0.0804,
+            "average_frequency_hz": 12.44,
             "average_speed": 0.836
           }
         },
@@ -209,8 +281,8 @@
             "path_length": 36.865,
             "minimum_clearance": -0.201,
             "collision_steps": 20,
-            "average_action_time_s": 0.05278,
-            "average_frequency_hz": 18.95,
+            "average_action_time_s": 0.05503,
+            "average_frequency_hz": 18.17,
             "average_speed": 0.783
           }
         }
@@ -232,7 +304,7 @@
             "minimum_clearance": -0.801,
             "collision_steps": 41,
             "average_action_time_s": 0.0,
-            "average_frequency_hz": 494454.39,
+            "average_frequency_hz": 446124.64,
             "average_speed": 1.3
           }
         },
@@ -246,19 +318,12 @@
             "minimum_clearance": -0.801,
             "collision_steps": 55,
             "average_action_time_s": 0.0,
-            "average_frequency_hz": 473803.81,
+            "average_frequency_hz": 499272.39,
             "average_speed": 1.3
           }
         }
       },
       "error": null
-    },
-    {
-      "name": "himaneesh",
-      "score": -10000.0,
-      "status": "error",
-      "scenarios": {},
-      "error": "only 0-dimensional arrays can be converted to Python scalars"
     }
   ]
 }
