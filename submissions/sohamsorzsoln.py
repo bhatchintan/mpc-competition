@@ -23,7 +23,7 @@ import numpy as np
 # act() call tests more simulated steps and may run slower.
 MPC_CONFIG = {
     "dt": 0.1,
-    "horizon": 22,
+    "horizon": 15,
     "near_goal_distance": 1.0,
 }
 
@@ -42,8 +42,8 @@ WEIGHTS = {
     "goal_heading": 0.08,
     "turn_rate": 0.05,
     "terminal_goal": 36.0,
-    "collision": 8000.0,
-    "collision_depth": 1600.0,
+    "collision": 10000.0,
+    "collision_depth": 2500.0,
     "near_obstacle": 18.0,
     "far_obstacle": 0.8,
     "stopping": 20.0,
