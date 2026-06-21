@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-06-21T06:41:46+00:00",
+  "updated_at": "2026-06-21T07:54:45+00:00",
   "entries": [
+    {
+      "name": "rishi",
+      "score": 2129.34,
+      "status": "ok",
+      "scenarios": {
+        "static_multi": {
+          "score": 2128.706,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 363,
+            "path_length": 33.465,
+            "minimum_clearance": 0.0,
+            "collision_steps": 0,
+            "average_action_time_s": 0.07571,
+            "average_frequency_hz": 13.21,
+            "average_speed": 0.922
+          }
+        },
+        "dynamic_multi": {
+          "score": 2129.974,
+          "metrics": {
+            "waypoints_reached": 4,
+            "completed": true,
+            "steps": 356,
+            "path_length": 32.365,
+            "minimum_clearance": 0.0,
+            "collision_steps": 0,
+            "average_action_time_s": 0.05398,
+            "average_frequency_hz": 18.52,
+            "average_speed": 0.909
+          }
+        }
+      },
+      "error": null
+    },
     {
       "name": "abhinav_pointsinthecloud",
       "score": 2127.274,
@@ -15,8 +51,8 @@
             "path_length": 33.465,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.0759,
-            "average_frequency_hz": 13.18,
+            "average_action_time_s": 0.07512,
+            "average_frequency_hz": 13.31,
             "average_speed": 0.922
           }
         },
@@ -29,8 +65,8 @@
             "path_length": 32.46,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.0538,
-            "average_frequency_hz": 18.59,
+            "average_action_time_s": 0.05351,
+            "average_frequency_hz": 18.69,
             "average_speed": 0.914
           }
         }
@@ -51,8 +87,8 @@
             "path_length": 36.3,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.05351,
-            "average_frequency_hz": 18.69,
+            "average_action_time_s": 0.05334,
+            "average_frequency_hz": 18.75,
             "average_speed": 1.065
           }
         },
@@ -65,8 +101,8 @@
             "path_length": 37.52,
             "minimum_clearance": 0.002,
             "collision_steps": 0,
-            "average_action_time_s": 0.03798,
-            "average_frequency_hz": 26.33,
+            "average_action_time_s": 0.03813,
+            "average_frequency_hz": 26.23,
             "average_speed": 1.066
           }
         }
@@ -87,8 +123,8 @@
             "path_length": 36.97,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.09831,
-            "average_frequency_hz": 10.17,
+            "average_action_time_s": 0.09593,
+            "average_frequency_hz": 10.42,
             "average_speed": 1.127
           }
         },
@@ -101,8 +137,8 @@
             "path_length": 38.335,
             "minimum_clearance": 0.002,
             "collision_steps": 0,
-            "average_action_time_s": 0.06921,
-            "average_frequency_hz": 14.45,
+            "average_action_time_s": 0.06768,
+            "average_frequency_hz": 14.77,
             "average_speed": 1.102
           }
         }
@@ -123,8 +159,8 @@
             "path_length": 36.775,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.04268,
-            "average_frequency_hz": 23.43,
+            "average_action_time_s": 0.04048,
+            "average_frequency_hz": 24.7,
             "average_speed": 0.965
           }
         },
@@ -137,8 +173,8 @@
             "path_length": 38.275,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.02757,
-            "average_frequency_hz": 36.27,
+            "average_action_time_s": 0.02604,
+            "average_frequency_hz": 38.41,
             "average_speed": 0.807
           }
         }
@@ -159,8 +195,8 @@
             "path_length": 38.25,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.04924,
-            "average_frequency_hz": 20.31,
+            "average_action_time_s": 0.04853,
+            "average_frequency_hz": 20.6,
             "average_speed": 1.214
           }
         },
@@ -173,8 +209,8 @@
             "path_length": 35.0,
             "minimum_clearance": -0.005,
             "collision_steps": 1,
-            "average_action_time_s": 0.03479,
-            "average_frequency_hz": 28.74,
+            "average_action_time_s": 0.03432,
+            "average_frequency_hz": 29.14,
             "average_speed": 1.182
           }
         }
@@ -195,8 +231,8 @@
             "path_length": 37.775,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.06133,
-            "average_frequency_hz": 16.3,
+            "average_action_time_s": 0.06143,
+            "average_frequency_hz": 16.28,
             "average_speed": 1.01
           }
         },
@@ -209,8 +245,8 @@
             "path_length": 39.195,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.04145,
-            "average_frequency_hz": 24.13,
+            "average_action_time_s": 0.04129,
+            "average_frequency_hz": 24.22,
             "average_speed": 0.817
           }
         }
@@ -231,7 +267,7 @@
             "path_length": 37.41,
             "minimum_clearance": 0.001,
             "collision_steps": 0,
-            "average_action_time_s": 0.08605,
+            "average_action_time_s": 0.08603,
             "average_frequency_hz": 11.62,
             "average_speed": 0.926
           }
@@ -245,8 +281,8 @@
             "path_length": 38.63,
             "minimum_clearance": -0.079,
             "collision_steps": 2,
-            "average_action_time_s": 0.05083,
-            "average_frequency_hz": 19.67,
+            "average_action_time_s": 0.05074,
+            "average_frequency_hz": 19.71,
             "average_speed": 0.784
           }
         }
@@ -267,8 +303,8 @@
             "path_length": 36.71,
             "minimum_clearance": 0.0,
             "collision_steps": 0,
-            "average_action_time_s": 0.06228,
-            "average_frequency_hz": 16.06,
+            "average_action_time_s": 0.06194,
+            "average_frequency_hz": 16.15,
             "average_speed": 0.971
           }
         },
@@ -281,8 +317,8 @@
             "path_length": 38.915,
             "minimum_clearance": -0.068,
             "collision_steps": 7,
-            "average_action_time_s": 0.04223,
-            "average_frequency_hz": 23.68,
+            "average_action_time_s": 0.04198,
+            "average_frequency_hz": 23.82,
             "average_speed": 0.828
           }
         }
@@ -303,8 +339,8 @@
             "path_length": 38.38,
             "minimum_clearance": -0.016,
             "collision_steps": 4,
-            "average_action_time_s": 0.08306,
-            "average_frequency_hz": 12.04,
+            "average_action_time_s": 0.08283,
+            "average_frequency_hz": 12.07,
             "average_speed": 0.836
           }
         },
@@ -317,8 +353,8 @@
             "path_length": 36.865,
             "minimum_clearance": -0.201,
             "collision_steps": 20,
-            "average_action_time_s": 0.05916,
-            "average_frequency_hz": 16.9,
+            "average_action_time_s": 0.05864,
+            "average_frequency_hz": 17.05,
             "average_speed": 0.783
           }
         }
@@ -339,8 +375,8 @@
             "path_length": 34.3,
             "minimum_clearance": -0.791,
             "collision_steps": 11,
-            "average_action_time_s": 0.02219,
-            "average_frequency_hz": 45.06,
+            "average_action_time_s": 0.02229,
+            "average_frequency_hz": 44.85,
             "average_speed": 1.208
           }
         },
@@ -353,8 +389,8 @@
             "path_length": 36.54,
             "minimum_clearance": -0.045,
             "collision_steps": 19,
-            "average_action_time_s": 0.01568,
-            "average_frequency_hz": 63.76,
+            "average_action_time_s": 0.01583,
+            "average_frequency_hz": 63.16,
             "average_speed": 1.124
           }
         }
@@ -376,7 +412,7 @@
             "minimum_clearance": -0.801,
             "collision_steps": 41,
             "average_action_time_s": 0.0,
-            "average_frequency_hz": 331658.8,
+            "average_frequency_hz": 345625.71,
             "average_speed": 1.3
           }
         },
@@ -390,7 +426,7 @@
             "minimum_clearance": -0.801,
             "collision_steps": 55,
             "average_action_time_s": 0.0,
-            "average_frequency_hz": 337639.98,
+            "average_frequency_hz": 377937.75,
             "average_speed": 1.3
           }
         }
